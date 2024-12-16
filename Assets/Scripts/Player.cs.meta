@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 1607df81a383f194fbfa1b0865ff5b10
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - disparoPrefab: {fileID: 2158549489180520835, guid: 55f5f057322db634f9ea4b6f58189a3a, type: 3}
+  - SpawnPoint1: {instanceID: 0}
+  - SpawnPoint2: {instanceID: 0}
+  - textoVidas: {instanceID: 0}
+  - gameOverPanel: {instanceID: 0}
+  - pauseMenu: {instanceID: 0}
+  - playerDamage: {fileID: 8300000, guid: 2e73e1d11ea9a8346839292485ccd014, type: 3}
+  - gameOver: {fileID: 8300000, guid: 69faf7fae960d314cbe7af7dc533d718, type: 3}
+  - efectoExplosion: {fileID: 139366, guid: b185c1a9cf067374586d095111b15bd1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
